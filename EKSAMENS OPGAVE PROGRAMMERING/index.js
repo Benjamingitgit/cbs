@@ -11,7 +11,7 @@ app.listen(port, () => console.log(`Server lytter på port  ${port}..`))
 app.get('/', function(req,res) {
     res.send('restful api vfirgker');
 })
-console.log('de ting i /views skal bruges som endpoint til vores side!!')
+console.log('de ting i /views skal bruges som endpoint til vores side! ayo!')
 
 //middelware
 // de ting i /views skal bruges som endpoint til vores side!!
